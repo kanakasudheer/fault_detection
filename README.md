@@ -41,6 +41,15 @@ Additionally, the system forecasts future power load, helping to prevent faults 
  Power Load Prediction:
 
 * Forecast future power consumption using time-series models (LSTM recommended)
+🔭 Future Scope
+
+* Real-time streaming with Apache Kafka or MQTT
+* Fault localization and severity estimation
+* Edge deployment for low-latency fault mitigation
+* Renewable energy-aware forecasting
+* Federated learning for privacy and scalability
+
+
 
 ✅ Conclusion
 
@@ -51,10 +60,4 @@ This project demonstrates the use of machine learning to intelligently:
 
 The system improves fault response time, enhances grid stability, and supports preventive maintenance.
 
-🔭 Future Scope
-
-* Real-time streaming with Apache Kafka or MQTT
-* Fault localization and severity estimation
-* Edge deployment for low-latency fault mitigation
-* Renewable energy-aware forecasting
-* Federated learning for privacy and scalability
+\
